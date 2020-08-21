@@ -7,4 +7,4 @@ as a Techy. But not used often enough to be memorized.
 
 ## Commands
 
-[Unix](docs/unix)
+[Unix](docs/bash-cmds.md)
